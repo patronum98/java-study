@@ -4,7 +4,7 @@ public class scope3 {
     static int i; //전역변수 i 선언
 
     static void a() {
-        int i = 0; //지역변수선언 int i = 0. a() 안에서는 지역변수가 우선순위가 더 높다.
+        int i = 3; //지역변수선언 int i = 0. a() 안에서는 지역변수가 우선순위가 더 높다.
     }
 
     public static void main(String[] args) {
