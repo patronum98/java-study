@@ -2,6 +2,8 @@
 
 유튜버 생활코딩님의 강의를 수강합니다.
 
+https://www.youtube.com/watch?v=jdTsJzXmgU0&list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck&index=1
+
 1일차 : 1 ~ 24 <br>
 2일차 : 25 ~ 39 <br>
 3일차 : 40 ~ 53 <br>
